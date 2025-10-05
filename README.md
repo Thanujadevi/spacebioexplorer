@@ -2,7 +2,7 @@
 
 Project Information
 
-Website URL: https://spacebioexplorer.lovable.app/
+Website URL: https://tinyurl.com/3pcz78pw
 
 How to Edit This Project
 
