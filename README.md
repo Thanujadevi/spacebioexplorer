@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/0074f53c-987e-44f0-a837-2ce6fd0a6ab8
+**URL**: https://spacebioexplorer.lovable.app/
 
 ## How can I edit this code?
 
